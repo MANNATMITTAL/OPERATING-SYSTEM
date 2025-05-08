@@ -1,4 +1,2 @@
-# Operating-system-
+# Operating System
 
-Name: Mannat Mittal
-Roll no: 22CSU279
